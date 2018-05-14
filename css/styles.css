@@ -1,0 +1,107 @@
+.basic-back{
+    background-color: yellow
+
+}
+
+.title-color {
+    color: red;
+    text-align: center;
+}
+
+.italic {
+    font-style: italic;
+    
+}
+
+.goats {
+    background-image: url("herd\ of\ goats.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+.Clutch-city-header {
+    border-style: dashed;
+    border-width: medium;
+    border-color:red;
+    font-size: 250px;
+    text-align: center;
+    color:yellow
+
+}
+
+.other-goats{
+    border: 20px solid transparent;
+    padding: 25px;
+    border-image: url(Harden.jpg) 40% round;
+}
+
+.rockets{
+    font-style: italic;
+    font-stretch: expanded;
+    font-size: 45px;
+
+}
+
+.georgia{
+    font-style: georgia;
+    font-size: 50px;
+
+}
+
+.whitey{
+    color: white;
+}
+
+
+h1.a {
+    color: white;
+    text-align: center;
+}
+
+h2.a {
+    color: yellow;
+    text-align: center;
+    font-size: 100px;
+}
+
+p.a {
+    text-align: center;
+}
+
+
+body, html {
+    height: 100%;
+}
+
+body.bg { 
+    /* The image used */
+    background-image: url("Harden.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1.NBA-Jam { 
+    /* The image used */
+    background-image: url("NBA\ JAM.gif");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.houston{
+    background-image: url("HTown\ skyline.jpg");
+}
